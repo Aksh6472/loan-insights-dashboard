@@ -81,6 +81,9 @@ Data preprocessing was conducted using Excel, including:
 3. Interact with the dashboard to explore insights
 
 ---
+<img width="1288" height="722" alt="image" src="https://github.com/user-attachments/assets/8543f8dd-1d7d-4078-b78b-220c4fba4fe4" />
+
+
 
 ## Team Members
 
